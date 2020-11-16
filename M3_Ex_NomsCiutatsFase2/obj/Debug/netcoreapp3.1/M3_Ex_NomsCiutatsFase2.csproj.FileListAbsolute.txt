@@ -1,0 +1,13 @@
+C:\Users\jruan\source\repos\M3_Ex_NomsCiutatsFase2\M3_Ex_NomsCiutatsFase2\bin\Debug\netcoreapp3.1\M3_Ex_NomsCiutatsFase2.exe
+C:\Users\jruan\source\repos\M3_Ex_NomsCiutatsFase2\M3_Ex_NomsCiutatsFase2\bin\Debug\netcoreapp3.1\M3_Ex_NomsCiutatsFase2.deps.json
+C:\Users\jruan\source\repos\M3_Ex_NomsCiutatsFase2\M3_Ex_NomsCiutatsFase2\bin\Debug\netcoreapp3.1\M3_Ex_NomsCiutatsFase2.runtimeconfig.json
+C:\Users\jruan\source\repos\M3_Ex_NomsCiutatsFase2\M3_Ex_NomsCiutatsFase2\bin\Debug\netcoreapp3.1\M3_Ex_NomsCiutatsFase2.runtimeconfig.dev.json
+C:\Users\jruan\source\repos\M3_Ex_NomsCiutatsFase2\M3_Ex_NomsCiutatsFase2\bin\Debug\netcoreapp3.1\M3_Ex_NomsCiutatsFase2.dll
+C:\Users\jruan\source\repos\M3_Ex_NomsCiutatsFase2\M3_Ex_NomsCiutatsFase2\bin\Debug\netcoreapp3.1\M3_Ex_NomsCiutatsFase2.pdb
+C:\Users\jruan\source\repos\M3_Ex_NomsCiutatsFase2\M3_Ex_NomsCiutatsFase2\obj\Debug\netcoreapp3.1\M3_Ex_NomsCiutatsFase2.csprojAssemblyReference.cache
+C:\Users\jruan\source\repos\M3_Ex_NomsCiutatsFase2\M3_Ex_NomsCiutatsFase2\obj\Debug\netcoreapp3.1\M3_Ex_NomsCiutatsFase2.AssemblyInfoInputs.cache
+C:\Users\jruan\source\repos\M3_Ex_NomsCiutatsFase2\M3_Ex_NomsCiutatsFase2\obj\Debug\netcoreapp3.1\M3_Ex_NomsCiutatsFase2.AssemblyInfo.cs
+C:\Users\jruan\source\repos\M3_Ex_NomsCiutatsFase2\M3_Ex_NomsCiutatsFase2\obj\Debug\netcoreapp3.1\M3_Ex_NomsCiutatsFase2.csproj.CoreCompileInputs.cache
+C:\Users\jruan\source\repos\M3_Ex_NomsCiutatsFase2\M3_Ex_NomsCiutatsFase2\obj\Debug\netcoreapp3.1\M3_Ex_NomsCiutatsFase2.dll
+C:\Users\jruan\source\repos\M3_Ex_NomsCiutatsFase2\M3_Ex_NomsCiutatsFase2\obj\Debug\netcoreapp3.1\M3_Ex_NomsCiutatsFase2.pdb
+C:\Users\jruan\source\repos\M3_Ex_NomsCiutatsFase2\M3_Ex_NomsCiutatsFase2\obj\Debug\netcoreapp3.1\M3_Ex_NomsCiutatsFase2.genruntimeconfig.cache
